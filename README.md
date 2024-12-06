@@ -1,6 +1,8 @@
 # CS747-Project
 GMU CS 747 Deep Learning
 
+Team 3
+
 Project Title: Impressionist Imagery with CycleGAN: Unpaired Image Translation for Monet-Style Generation
 
 Track: Kaggle Competition
